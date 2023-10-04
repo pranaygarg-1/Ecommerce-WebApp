@@ -15,3 +15,9 @@
 - Search and Filter: Easily find products using the search bar or apply filters to narrow down options.
 
 - Responsive Design: Ensures optimal viewing and interaction experience across various devices.
+  
+## Technologies used: 
+- HTML
+- CSS
+- Javascript
+- ReactJs
