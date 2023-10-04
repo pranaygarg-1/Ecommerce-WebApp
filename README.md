@@ -1,10 +1,10 @@
 # Ecommerce-WebApp
 
-## Overview:
+## Overview :
 
-This project is an ecommerce web application built using ReactJS, designed to provide users with a seamless shopping experience. It offers a wide range of products across various categories, intuitive navigation, secure payment processing, and a user-friendly interface.
+- This project is an ecommerce web application built using ReactJS, designed to provide users with a seamless shopping experience. It offers a wide range of products across various categories, intuitive navigation, secure payment processing, and a user-friendly interface.
 
-## Features:
+## Features :
 
 - Product Catalog: Browse through a diverse selection of products, each with detailed descriptions and images.
 
